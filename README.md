@@ -1,6 +1,6 @@
 # Hi, I am [Deepak Kharah](https://www.deepakkharah.com/) 👋😄
 
--   I am a software engineer with a passion for **learning** and **building**.
+-   I am a software engineer passionate about **learning** and **building**.
 -   Currently working at **[Contentstack](https://github.com/contentstack)**.
 -   Worked extensively on web technologies.
 -   Design solutions for enterprise products.
@@ -23,16 +23,16 @@ My approach to software development involves anticipating gaps in the product du
 
 I maintain law and order in our galaxy. 🤫
 
-![Arresting the bad guys](https://img.shields.io/badge/arrests_made-classified-222?style=for-the-badge)
+![Arresting the bad guys](https://img.shields.io/badge/arrests_made-classified-111?style=for-the-badge)
 
 I like to ride or learn when I take a break from patrolling. So, either I'll be on my bike exploring new places or at home learning random new things and writing them down (hoping to use that knowledge in the future).
 
 Also, I make random stuff in [**Codepen**](https://codepen.io/deepak_kharah), [**Github**](https://github.com/Deepak-Kharah/), or my **local machine** (I should push them soon 🤔).
 
-## Want to learn more about me?
+## Would you like to learn more about me?
 
 You can visit the following places to explore my work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/deepakkharah/)
-[![CodePen](https://img.shields.io/badge/Codepen-222?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deepak_kharah)
-[![Personal website](https://img.shields.io/badge/portfolio-222?style=for-the-badge&logo=About.me&logoColor=white)](https://www.deepakkharah.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/deepakkharah/)
+[![CodePen](https://img.shields.io/badge/Codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deepak_kharah)
+[![Personal website](https://img.shields.io/badge/portfolio-111?style=for-the-badge&logo=About.me&logoColor=white)](https://www.deepakkharah.com/)
