@@ -36,3 +36,5 @@ You can visit the following places to explore my work.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/deepakkharah/)
 [![CodePen](https://img.shields.io/badge/Codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deepak_kharah)
 [![Personal website](https://img.shields.io/badge/portfolio-111?style=for-the-badge&logo=About.me&logoColor=white)](https://www.deepakkharah.com/)
+
+> Psst... Want to see something cool? If you have [Node](https://nodejs.org/) installed on your device. You can run `npx deepak-kharah` to get my profile card. A concise business card 😄✌️.
