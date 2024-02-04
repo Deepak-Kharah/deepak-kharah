@@ -36,9 +36,3 @@ You can visit the following places to explore my work.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/deepakkharah/)
 [![CodePen](https://img.shields.io/badge/Codepen-222?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/deepak_kharah)
 [![Personal website](https://img.shields.io/badge/portfolio-222?style=for-the-badge&logo=About.me&logoColor=white)](https://www.deepakkharah.com/)
-
-<style>
-    h1, h2 {
-        border-bottom: transparent !important;
-    }
-</style>
